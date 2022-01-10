@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Newsha Hosseiny Nik",
   "description": "My Awesome Project",
+  "keywords": [
+    "freecodecamp",
+    "sample",
+    "keywords"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
